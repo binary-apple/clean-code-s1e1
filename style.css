@@ -14,7 +14,9 @@
   width: 100%;
 }
 .header__link {
-  font-family: fantasy, cursive;
+  font-family: "Sour Gummy", cursive;
+  font-weight: 500;
+  font-style: normal;
 }
 
 @media (max-width: 768px) {
