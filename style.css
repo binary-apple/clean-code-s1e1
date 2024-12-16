@@ -105,7 +105,6 @@
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -120,7 +119,7 @@
   font-size: 18px;
   width: 226px;
 }
-.tasks__item >    .tasks__new-task,
+.tasks__item > .tasks__new-task,
 .tasks__item > .tasks__task-input {
   width: 226px;
 }
